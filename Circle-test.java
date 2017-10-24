@@ -1,7 +1,7 @@
 package edu.cscc;
 import java.util.Scanner;
 
-// Adeline Davis - Calculate a circle's area and circumference
+// Addie - Calculate a circle's area and circumference
 
 public class Main {
 
